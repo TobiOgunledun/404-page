@@ -36,6 +36,8 @@
 
 ## Overview
 
+![screenshot](https://github.com/TobiOgunledun/404-page/blob/main/screenshot.png)
+
 The 404-page is the first design from <a href="https://devchallenges.io/">developers.io</a>. It is a landing page which consists of a an image, a text and footer. 
 It is fully responsive to all screen sizes and successfully deployed to Github. 
 
