@@ -36,10 +36,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-
-
-The 404-page is the first design from <a href="">developers.io</a>. It is a landing page which consists of a an image, a text and footer. 
+The 404-page is the first design from <a href="https://devchallenges.io/">developers.io</a>. It is a landing page which consists of a an image, a text and footer. 
 It is fully responsive to all screen sizes and successfully deployed to Github. 
 
 "the journey of a thousand miles, starts with a single step..."
