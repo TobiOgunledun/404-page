@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=0%3A1">
+    <a href="https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=0%3A1">
       Demo
     </a>
     <span> | </span>
@@ -38,7 +38,7 @@
 
 ![screenshot](https://github.com/TobiOgunledun/404-page/blob/main/screenshot.png)
 
-The 404-page is the first design from <a href="https://devchallenges.io/">developers.io</a>. It is a landing page which consists of a an image, a text and footer. 
+The 404-page is the first design from <a href="https://devchallenges.io/">developers.io</a>. It is a landing page which consists of an image, a text and footer. 
 It is fully responsive to all screen sizes and successfully deployed to Github. 
 
 "the journey of a thousand miles, starts with a single step..."
